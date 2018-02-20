@@ -1,7 +1,7 @@
 {
   "name": "nodejs-docker",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
+  "description": "Experiment with nodejs and docker",
   "author": "Stefan Jansson",
   "main": "server.js",
   "scripts": {
